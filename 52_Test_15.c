@@ -10,7 +10,7 @@ int main() {
 
 
     FILE *ptr = NULL;
-    ptr = fopen("my2.txt", "w");
+    ptr = fopen("50_my.txt", "w");
 
     char name[32];
     char item[32];

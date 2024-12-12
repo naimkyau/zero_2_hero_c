@@ -6,7 +6,7 @@
 
 int main(){
     FILE *ptr = NULL;
-    ptr = fopen("my.txt", "r");
+    ptr = fopen("50_my.txt", "r");
 
 //      Reading a file 
     char string[20];
@@ -17,7 +17,7 @@ int main(){
 
 //      Writing a file
 
-    ptr = fopen("my.txt", "w");
+    ptr = fopen("50_my.txt", "w");
     // char string2[20];
     printf("Update the string :");
     gets(string);
@@ -26,7 +26,7 @@ int main(){
 
 //      Reading a file 
 
-    ptr = fopen("my.txt", "r");
+    ptr = fopen("50_my.txt", "r");
     // fscanf(ptr, "%s",string);
     fgets(string, 100, ptr);
     printf("The string after update \"%s\"\n",string);
