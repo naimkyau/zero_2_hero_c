@@ -1,0 +1,46 @@
+// Hello world
+// Sum
+// sizeof
+// Arithmetic Operators
+// Relational Operators
+// logical operators
+// Bitwise Operators
+// Assignment Operators
+// Miscellaneous Operators
+// Operator Precedence
+// Constant
+// Format Specifier
+// Constant
+// Escape Sequences
+// Conditional Statements
+// Switch
+// Do While loop
+// While loop
+// For loop
+// contenue statement
+// break statement
+// goto statement
+// Type casting
+// Function
+// Recursion
+// arrays
+// Pointer 
+// Array pointer
+// Passing array to a function 
+// Strings 
+// string function
+// Structures
+// Unions 
+// Static variables   
+// Dynamic Memory Allocation 
+// Void pointer
+// NULL pointer
+// Dangling pointer
+// #include
+// #define
+// Predefined Macros
+// File I/O
+// Command line arguments
+// Function Pointer
+// Callback Functions Using Function Pointers
+// Memory Leak
